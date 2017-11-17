@@ -1,0 +1,6 @@
+c:\users\omer\documents\visual studio 2013\Projects\OkeyOyunu\OkeyOyunu\bin\Debug\OkeyOyunu.exe.config
+c:\users\omer\documents\visual studio 2013\Projects\OkeyOyunu\OkeyOyunu\bin\Debug\OkeyOyunu.exe
+c:\users\omer\documents\visual studio 2013\Projects\OkeyOyunu\OkeyOyunu\bin\Debug\OkeyOyunu.pdb
+c:\users\omer\documents\visual studio 2013\Projects\OkeyOyunu\OkeyOyunu\obj\Debug\OkeyOyunu.csprojResolveAssemblyReference.cache
+c:\users\omer\documents\visual studio 2013\Projects\OkeyOyunu\OkeyOyunu\obj\Debug\OkeyOyunu.exe
+c:\users\omer\documents\visual studio 2013\Projects\OkeyOyunu\OkeyOyunu\obj\Debug\OkeyOyunu.pdb
